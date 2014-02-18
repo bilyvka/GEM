@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/connect"
+          android:title="Proceed"
+          android:showAsAction="never"
+          android:icon="@drawable/connect"
+          />
+
+    <item android:id="@+id/settings"
+          android:title="Settings"
+          android:showAsAction="never"
+          android:icon="@drawable/settings" />
+
+    <item android:id="@+id/exit"
+          android:title="Exit"
+          android:showAsAction="never"
+          android:icon="@drawable/stop" />
+</menu>

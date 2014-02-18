@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/JadeLeapAndroid.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/google-play-services.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/simple-xml-2.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
